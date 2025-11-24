@@ -15,13 +15,20 @@ Tasks assigned for the lab:  <br/>
 <img src="Tasks.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="User Mangement1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br/>
-<img src="UM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="UM3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br/>
+<img src="5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
